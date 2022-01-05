@@ -1,0 +1,298 @@
+body{
+    margin:auto;
+    padding:auto;
+    /* background-color: rgb(238, 177, 8);
+    color: rgb(94, 30, 94); */
+}
+
+/* .navbar {
+    background-color: rgb(238, 177, 8);
+    text-align: center;
+    margin: 25px;
+}
+
+.navbar a {
+    color: rgb(94, 30, 94);
+    text-decoration: none;
+    font-size: 33px;
+    font-weight: bold;
+}
+
+.header {
+    border-top: 1px solid black;
+    margin-top: -8px;
+    padding-left: 722px;
+    border-bottom: 2px solid black;
+}
+
+.header a {
+    text-decoration: none;
+    background-color: grey;
+    color: black;
+}
+
+table {
+    border: 1px;
+    border-collapse: collapse;
+    border-color:black;
+    width: 100%;
+} */
+/* image de gauche */
+/* .img {
+    margin:0;
+    margin-top: -125px;
+} */
+/* tout sur la fontaine magique */
+/* .dd {
+    display: flex;
+    align-items: center;
+} */
+
+/* .card{
+    float: left;
+    background-color: rgb(216, 230, 140);
+    width: 467px;
+    margin: 10px;
+    height: 254px;
+    margin-top: 10px;
+}
+.card-img {
+    position: relative;
+    width: 150px;
+    display: inline;
+}
+
+.card-title {
+    margin-top: 10px;
+    font-size: 22px;
+    display: inline;
+    text-align: center;
+    font-weight: bold;
+    margin-left: 57px;
+}
+
+.card-muted {
+    text-align: right;
+} */
+
+/* tout sur pétra */
+/* .cd {
+    float: left;
+    background-color: rgb(216, 230, 140);
+    width: 467px;
+    margin: 10px;
+    height: 254px;
+    margin-top: 10px;
+}
+
+.card-titl {
+    margin-top: 10px;
+    font-size: 22px;
+    display: inline;
+    font-weight: bold;
+    margin-left: 47px;
+} */
+
+/* tout sur la boule magique */
+/* .ca {
+    float: left;
+    background-color: rgb(216, 230, 140);
+    width: 467px;
+    margin: 10px;
+    height: 254px;
+    margin-top: 14px;  
+}
+
+.card-im {
+    width: 131px;
+}
+
+.card-tit {
+    margin-top: 10px;
+    font-size: 22px;
+    display: inline;
+    font-weight: bold;
+    margin-left: 9px;
+} */
+
+/* tout sur les jardins suspendus */
+/* .ce {
+    float: left;
+    background-color: rgb(216, 230, 140);
+    width: 467px;
+    margin: 10px;
+    height: 254px;
+    margin-top: 14px;
+}
+
+.card-ti { 
+    margin-top: 10px;
+    font-size: 22px;
+    display: inline;
+    font-weight: bold;
+    margin-left: 70px;
+} */
+
+/* tout footer */
+
+/* .go {
+    color: white;
+    background-color:rgb(94, 30, 94);
+    text-align: center;
+    font-weight: bold;
+    height: 40px;
+    margin-top: 49px;
+    padding: 1px;
+}  */
+
+/* YOUTUBE */
+
+/* navbar */
+.navbar {
+    background-color: rgb(241, 247, 252);
+    border-bottom: 1px solid rgb(207, 207, 207) ;
+}
+
+.navbar a img {
+    margin-right: 9px;
+}
+
+.navbar .nav {
+    margin-left: 20px;
+    display: flex;
+}
+
+.navbar .bar {
+    margin-left: 480px;
+    font-weight: bold;
+    color: rgb(94, 91, 91);
+}
+
+.navbar a {
+    margin-left: 4px;
+    text-decoration: none;
+    font-weight: bold;
+    color: rgb(8, 85, 252);
+}
+
+.ig {
+    margin-left: 32px;
+}
+
+/* en tête */
+.header {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 25px;
+}
+
+.search {
+    width: 100%;
+    position: relative;
+    display: flex;
+}
+
+.sitesearch{
+    width: 100%;
+    border: 1px solid rgb(207, 207, 207) ;
+    border-right: none;
+    padding: 15px;
+    height: 40px;
+    border-radius: 2px 0 0 2px;
+    outline: none;
+    color: black;
+    padding: 12px;
+    font-size: 17px;
+}
+
+.searchb{
+    width: 65px;
+    height: 40px;
+    border: 1px solid rgb(207, 207, 207);
+    background-color: white;
+    text-align: center;
+    border-radius: 0 2px 2px 0;
+    cursor: pointer;
+    font-size: 20px;
+}
+
+.wrap {
+    width: 475px;
+    position: relative;
+    top: 32px;
+    left: 42%;
+    transform: translate(-50%, -50%);
+}
+
+.header a {
+    text-decoration: none;
+    color: black;
+    font-size: 15px;
+}
+
+.co button {
+    background-color: black;
+    width: 80px;
+    height: 28px;
+}
+
+.co a {
+    color: white;
+    font-size: 15px;
+}
+
+.header button {
+    border-radius: 14px;
+    border-width: 1px;
+    border-color: rgb(207, 207, 207);
+}
+
+/* Tableau */
+
+table {
+    border-top: 1px solid rgb(207, 207, 207);
+    width: 100%;
+    margin-top: 10px;
+    background-color: rgb(248, 244, 244);
+    border-spacing:0px 55px;
+    padding-top: 10px;
+}
+
+tbody {
+    height: 10px;
+
+}
+/* card */
+
+/* Zendaya */
+
+
+th{
+    text-align: left;
+}
+
+.card-title {
+    font-weight: bold;
+    display: inline-flex;
+}
+
+.card-muted {
+    margin-left: 30px;
+    color: grey;
+}
+
+/* Dua Lipa */
+
+.cadre {
+    color: red;
+    border: 1px solid red;
+    width: 186px;
+    margin-left: 31px;
+    font-size: 13px;
+}
+
+
+
+
+
+
